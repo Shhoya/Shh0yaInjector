@@ -1,0 +1,10 @@
+C:\Users\hunho\source\repos\Shh0yaInjectorGUI\Shh0yaInjectorGUI\bin\Debug\Shh0yaInjectorGUI.exe.config
+C:\Users\hunho\source\repos\Shh0yaInjectorGUI\Shh0yaInjectorGUI\bin\Debug\Shh0yaInjectorGUI.exe
+C:\Users\hunho\source\repos\Shh0yaInjectorGUI\Shh0yaInjectorGUI\bin\Debug\Shh0yaInjectorGUI.pdb
+C:\Users\hunho\source\repos\Shh0yaInjectorGUI\Shh0yaInjectorGUI\obj\Debug\Shh0yaInjectorGUI.csprojAssemblyReference.cache
+C:\Users\hunho\source\repos\Shh0yaInjectorGUI\Shh0yaInjectorGUI\obj\Debug\Shh0yaInjectorGUI.Form1.resources
+C:\Users\hunho\source\repos\Shh0yaInjectorGUI\Shh0yaInjectorGUI\obj\Debug\Shh0yaInjectorGUI.Properties.Resources.resources
+C:\Users\hunho\source\repos\Shh0yaInjectorGUI\Shh0yaInjectorGUI\obj\Debug\Shh0yaInjectorGUI.csproj.GenerateResource.cache
+C:\Users\hunho\source\repos\Shh0yaInjectorGUI\Shh0yaInjectorGUI\obj\Debug\Shh0yaInjectorGUI.csproj.CoreCompileInputs.cache
+C:\Users\hunho\source\repos\Shh0yaInjectorGUI\Shh0yaInjectorGUI\obj\Debug\Shh0yaInjectorGUI.exe
+C:\Users\hunho\source\repos\Shh0yaInjectorGUI\Shh0yaInjectorGUI\obj\Debug\Shh0yaInjectorGUI.pdb

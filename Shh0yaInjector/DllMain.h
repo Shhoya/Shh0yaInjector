@@ -1,0 +1,11 @@
+#pragma once
+#include <stdio.h>
+#include <Windows.h>
+
+#define INJ_ERR_SUCCESS 0x1000;
+#define INJ_ERR_INVALID_HANDLE 0x1001;
+#define INJ_ERR_ALLOCATION_FAILED 0x1002;
+#define INJ_ERR_WRITE_FAILED 0x1003;
+#define INJ_ERR_NOT_FOUND_ROUTINE 0x1004;
+#define INJ_ERR_EXECUTION_FAILED 0x1005;
+#define INJ_ERR_INJECTION_FAILED 0x1006;

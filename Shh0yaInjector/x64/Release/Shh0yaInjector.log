@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output 디렉터리가 슬래시로 끝나지 않습니다. Output 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+  ManualMapping.cpp
+C:\Users\hunho\source\repos\Shh0yaInjectorGUI\Shh0yaInjector\ManualMapping.cpp(70,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+     C:\Users\hunho\source\repos\Shh0yaInjectorGUI\Shh0yaInjectorGUI\bin\Release\Shh0yaInjector.lib 라이브러리 및 C:\Users\hunho\source\repos\Shh0yaInjectorGUI\Shh0yaInjectorGUI\bin\Release\Shh0yaInjector.exp 개체를 생성하고 있습니다.
+  LINK : /LTCG를 지정했지만 코드를 생성할 필요가 없습니다. 명령줄에서 /LTCG를 제거하면 링커 성능이 향상됩니다.
+  Shh0yaInjector.vcxproj -> C:\Users\hunho\source\repos\Shh0yaInjectorGUI\Shh0yaInjectorGUI\bin\Release\Shh0yaInjector.dll
